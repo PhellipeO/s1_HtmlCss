@@ -40,6 +40,12 @@ footer img{
     height: 40px;
 }
 
+footer img:hover {
+    opacity: 0.8;
+    transform: translateY(-0.4rem);
+    box-shadow: rgba(0, 0, 0, 0.26)
+}
+
 footer {
     display: flex;
     justify-content: center;
