@@ -43,7 +43,7 @@ footer img{
 footer img:hover {
     opacity: 0.9;
     transform: translateY(-0.4rem);
-    box-shadow: rgba(0, 0, 0, 0.26)
+    box-shadow: rgba(0, 0, 0, 0.36)
 }
 
 footer {
