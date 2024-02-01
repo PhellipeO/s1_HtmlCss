@@ -4,3 +4,4 @@ Esse projeto foi minhsa primeiras linhas de código em html e CSS sem muita ajud
 
 Dessa vez consegui referenciar o CSS e ainda apliquei alguns estilos.
 
+Além disso, aprendi o básico das tags e ainda me ambientalizei com algumas configurações em CSS.
